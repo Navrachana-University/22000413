@@ -1,8 +1,3 @@
-
-==============================
-MatrixDSL - Matrix Expression Compiler
-==============================
-
 Author:
 Name: Samarth Desai 
 Roll Number: 22000413
